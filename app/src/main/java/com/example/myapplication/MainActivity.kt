@@ -56,12 +56,7 @@ class MainActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
     
-    //b5 5
-    //b6 6
-    // b7
-
-
-
+    //b10
 
 
 }
